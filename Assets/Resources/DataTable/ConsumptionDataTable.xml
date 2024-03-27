@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<ConsumptionData ItemUniqueNumber="13" ItemName="RedPotion" ItemType="HP" Value="50"/>
+	<ConsumptionData ItemUniqueNumber="14" ItemName="BluePotion" ItemType="MP" Value="100"/>
+	<ConsumptionData ItemUniqueNumber="15" ItemName="Chicken" ItemType="HP" Value="500"/>
+	<ConsumptionData ItemUniqueNumber="16" ItemName="Coke" ItemType="MP" Value="500"/>
+	<ConsumptionData ItemUniqueNumber="17" ItemName="Beer" ItemType="ELIXIR" Value="30"/>
+	<ConsumptionData ItemUniqueNumber="18" ItemName="Soju" ItemType="ELIXIR" Value="50"/>
+	<ConsumptionData ItemUniqueNumber="19" ItemName="Vodka" ItemType="ELIXIR" Value="100"/>
+	<ConsumptionData ItemUniqueNumber="20" ItemName="ExpGainer" ItemType="EXP" Value="1000"/>
+	<ConsumptionData ItemUniqueNumber="21" ItemName="TownCapsule" ItemType="WARPCAPSULE" Value="1"/>
+</root>

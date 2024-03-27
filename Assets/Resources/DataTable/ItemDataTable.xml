@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<ItemData UniquiNumber="0" Name="M4" Type="WEAPON" Price="1000" ImageName="M4" Discription="기본적인 돌격소총이다. 가격도 싸고 성능도 준수하다. 연사가 가능하다."/>
+	<ItemData UniquiNumber="1" Name="Pistol" Type="WEAPON" Price="500" ImageName="Pistol" Discription="기본적인 권총이다. 가격이 몹시 싸다. 연사가 불가하고 한번에 장전할 수 있는 탄환도 적다"/>
+	<ItemData UniquiNumber="2" Name="Shotgun" Type="WEAPON" Price="5000" ImageName="Shotgun" Discription="기본적인 샷건이다. 3개의 산탄이 동시에 발사된다. 연사가 불가능하고 장전시간이 매우길다."/>
+	<ItemData UniquiNumber="3" Name="RocketLauncher" Type="WEAPON" Price="20000" ImageName="RocketLauncher" Discription="기본적인 미사일 발사기이다. 유도미사일이 발사된다.  매우 강력하다 다만 적을 추적하는 성능이 이상한거같다. "/>
+	<ItemData UniquiNumber="4" Name="RailGun" Type="WEAPON" Price="1000000" ImageName="RailGun" Discription="레일건이다. 무기 중 가장 강력하고 가격또한 매우비싸다. 어느 고양이로봇이 미래에서 가져온거 같다. "/>
+	<ItemData UniquiNumber="5" Name="M16" Type="WEAPON" Price="10000" ImageName="M16" Discription="조금더 발전된 돌격소총이다. 성능이 준수해 장기간 사랑받은무기이다. 아직도 일부 부대에서 볼 수 있다."/>
+	<ItemData UniquiNumber="6" Name="Uzi" Type="WEAPON" Price="10000" ImageName="Uzi" Discription="딜레이없이 발사 할 수 있지만 어째선가 단발로 설정되어있다. 성능은 적당하다. 소총보다는 한번에 장전할 수 있는 탄환수가 적다."/>
+	<ItemData UniquiNumber="7" Name="DBShotgun" Type="WEAPON" Price="30000" ImageName="DBShotgun" Discription="더블 배럴 샷건이다. 6개의 산탄이 동시에 발사된다. 쌍발 산탄총, 더블 배럴, 트윈 배럴 등으로 부른다."/>
+	<ItemData UniquiNumber="8" Name="RocketLauncherV2" Type="WEAPON" Price="100000" ImageName="RocketLauncherV2" Discription="조금더 개량된 미사일 발사기이다. 적을 추격하는 성능은 이전모델과 비슷하지만 파괴력은 더욱 상승되었다."/>
+	<ItemData UniquiNumber="9" Name="K2" Type="WEAPON" Price="50000" ImageName="K2" Discription="어느 한 동양의 국가에서 개발된 돌격소총이다. M16이 점점 없어지고 해당무기로 교체된다고 한다. 성능또한 더욱 발전하였다."/>
+	<ItemData UniquiNumber="10" Name="ColtAnaconda" Type="WEAPON" Price="40000" ImageName="ColtAnaconda" Discription=".44매그넘탄환을 이용한 권총이다. 몹시강력하지만 장전가능한 탄환수가 매우 적다."/>
+	<ItemData UniquiNumber="11" Name="Puntgun" Type="WEAPON" Price="100000" ImageName="Puntgun" Discription="몹시 크고 무거우며 강력하다. 한번의 사격으로 50여마리의 새를 잡을 수 있었다고 한다. "/>
+	<ItemData UniquiNumber="12" Name="Nuclear" Type="WEAPON" Price="999999" ImageName="Nuclear" Discription="사용이 금지되어있는 무기이다. 치트용 아이템이며 마땅히 생각나는 이름이 없어 이리 지었다. 정상적인 방법으론 얻을 수 없다."/>
+	<ItemData UniquiNumber="13" Name="RedPotion" Type="CONSUMPTION" Price="50" ImageName="RedPotion" Discription="어딘가 익숙한 빨간 물약이다. 뭔가 버섯아이콘과 단풍잎이 떠오른다. 체력을 50회복시켜준다."/>
+	<ItemData UniquiNumber="14" Name="BluePotion" Type="CONSUMPTION" Price="200" ImageName="BluePotion" Discription="어딘가 익숙한 파란 물약이다. 뭔가 버섯아이콘과 단풍잎이 떠오른다. 마력을 100회복시켜준다."/>
+	<ItemData UniquiNumber="15" Name="Chicken" Type="CONSUMPTION" Price="800" ImageName="Chicken" Discription="맛있는 치킨이다. 체력을 제법 회복시켜준다. 오늘 저녁은 치킨이닭! 체력을 500회복시켜준다"/>
+	<ItemData UniquiNumber="16" Name="Coke" Type="CONSUMPTION" Price="1500" ImageName="Coke" Discription="왠지 모르겠지만 북극곰이 떠오르는 물건이다. 마력을 500 회복시켜준다."/>
+	<ItemData UniquiNumber="17" Name="Beer" Type="CONSUMPTION" Price="5000" ImageName="Beer" Discription="금요일이 되면 늘 떠오르는 친구이다. 매우 시원하고 청량하다. 체력과 마력을 30프로 회복시켜준다."/>
+	<ItemData UniquiNumber="18" Name="Soju" Type="CONSUMPTION" Price="10000" ImageName="Soju" Discription="금요일이 되면 늘 떠오르는 친구이다! 쓰게 느껴질때도 있고 달달하게 느껴지기도한다. 체력과 마력을 50프로 회복시켜준다."/>
+	<ItemData UniquiNumber="19" Name="Vodka" Type="CONSUMPTION" Price="30000" ImageName="Vodka" Discription="매우독한 녀석이다. 체력과 마력을 100프로 회복시켜준다. 추운지방에서 이걸 마시고 열을내어 추위를 이겨내기 위해 마셨다고한다. "/>
+	<ItemData UniquiNumber="20" Name="ExpGainer" Type="CONSUMPTION" Price="500000" ImageName="ExpGainer" Discription="사용하면 경험치가 자동으로 올라가는 소모아이템이다. 경험치를 1000올려준다. 매우 얻기 힘들다."/>
+	<ItemData UniquiNumber="21" Name="TownCapsule" Type="CONSUMPTION" Price="1000" ImageName="Capsule" Discription="사용하면 마을로 귀환할 수 있다."/>
+	<ItemData UniquiNumber="22" Name="ZombieTeeth" Type="ETC" Price="10" ImageName="ZombieTeeth" Discription="좀비의 이빨이다. 물리면 뭔가 감염될거 같지만 아무 영향이 없다. 몹시 저렴하다."/>
+	<ItemData UniquiNumber="23" Name="ZombieBorn" Type="ETC" Price="50" ImageName="ZombieBorn" Discription="좀비를 처치하고 얻은 뼈이다. 인간과 달리 바이러스에 감염되어 오랜기간 세포가 변해서 그런지 모양이 이상하다."/>
+	<ItemData UniquiNumber="24" Name="GiantHand" Type="ETC" Price="1000" ImageName="GiantHand" Discription="바이러스인해 커다랗고 이상하게 변이된 고릴라의 손이다. 무기제작에 사용할 수 있을거같다."/>
+	<ItemData UniquiNumber="25" Name="GDLeather" Type="ETC" Price="5000" ImageName="GDLeather" Discription="땅에서 기어다니는 변이된 도마뱀을 처치하고 얻은 가죽이다. 아주 단단하다. 무기제작재료로 사용할 수 있을거같다."/>
+	<ItemData UniquiNumber="26" Name="HatchlingTail" Type="ETC" Price="8000" ImageName="HatchlingTail" Discription="하늘을 날아다니는 이상한 도마뱀을 처치하고 잘라낸 꼬리이다. 무기제작재료로 사용할 수 있다."/>
+	<ItemData UniquiNumber="27" Name="HeadBorn" Type="ETC" Price="3000" ImageName="HeadBorn" Discription="변이된 도마뱀의 두개골이다 변이된 도마뱀들이 공통으로 드롭한다."/>
+	<ItemData UniquiNumber="28" Name="EDJade" Type="ETC" Price="30000" ImageName="EDJade" Discription="엄청커다란 도마뱀?(드래곤)을 처치하고 얻은 용의 옥(용옥)이다. 가장강력한 무기의 제작에 사용된다."/>
+	<ItemData UniquiNumber="29" Name="LetterFromDeveloper" Type="ETC" Price="99999" ImageName="LetterFromDeveloper" Discription="제가 만든 게임을 해주셔서 정말 감사합니다. 앞으로도 더욱 좋은 게임을 만들기 위해 노력하겠습니다. To.Player"/>
+</root>

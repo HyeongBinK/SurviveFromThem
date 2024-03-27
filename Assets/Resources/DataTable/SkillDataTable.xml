@@ -1,0 +1,8 @@
+<root>
+  <SkillData SkillUniqueNumber="0" SkillName="터렛설치" SKillImageName ="Active_MakeTurret" SkillType="ACTIVE" SkillMaxLevel="30" SkillCost="100" SkillCoolTime="30" SkillDurationTime="20" SkillValue="20" SkillLevelPerValue="10" SkillDiscription="터렛을 소환하여 20초동안 적을 공격하게 한다" />
+  <SkillData SkillUniqueNumber="1" SkillName="도발인형" SKillImageName ="Active_ ProvocativeDoll" SkillType="ACTIVE" SkillMaxLevel="30" SkillCost="50" SkillCoolTime="20" SkillDurationTime="10" SkillValue="1000" SkillLevelPerValue="300" SkillDiscription="적을 도발하는 인형을 소환하여 10초동안 적의 주의를 모은다" />
+  <SkillData SkillUniqueNumber="2" SkillName="전투자극제" SKillImageName ="Active_SteamPack" SkillType="ACTIVE" SkillMaxLevel="10" SkillCost="10" SkillCoolTime="40" SkillDurationTime="20" SkillValue="0" SkillLevelPerValue="0.1" SkillDiscription="20초 동안 크리티컬확률과 크리티컬 데미지가 상승한다" />
+  <SkillData SkillUniqueNumber="3" SkillName="공격력%증가" SKillImageName ="Passive_ATKUp" SkillType="PASSIVE" SkillMaxLevel="99" SkillCost="-1" SkillCoolTime="-1" SkillDurationTime="-1" SkillValue="0" SkillLevelPerValue="1" SkillDiscription="레벨 당 공격력수치가 1% 상승한다" />
+  <SkillData SkillUniqueNumber="4" SkillName="크리티컬확률증가" SKillImageName ="Passive_CriticalRateUp" SkillType="PASSIVE" SkillMaxLevel="90" SkillCost="-1" SkillCoolTime="-1" SkillDurationTime="-1" SkillValue="0" SkillLevelPerValue="1" SkillDiscription="레벨 당 크리티컬확률이 1% 증가한다" />
+  <SkillData SkillUniqueNumber="5" SkillName="이동속도증가" SKillImageName ="Passive_SPDUp" SkillType="PASSIVE" SkillMaxLevel="20" SkillCost="-1" SkillCoolTime="-1" SkillDurationTime="-1" SkillValue="0" SkillLevelPerValue="0.1" SkillDiscription="레벨당 이동속도가 상승한다" />
+</root>

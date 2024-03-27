@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6d36b5308fdfe3342a0ccc3a1efc8fe4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - gasinamuM
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1039876f72f361f478904675b25691d2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

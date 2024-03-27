@@ -1,0 +1,16 @@
+<root>
+  <CraftingItem ItemUniqueNumber="0" MaterialItem_1_UniqueNumber="22" MaterialItem_1_Quantiy="10" MaterialItem_2_UniqueNumber="23" MaterialItem_2_Quantiy="10" MaterialItem_3_UniqueNumber="0" MaterialItem_3_Quantiy="0" />
+  <CraftingItem ItemUniqueNumber="5" MaterialItem_1_UniqueNumber="22" MaterialItem_1_Quantiy="30" MaterialItem_2_UniqueNumber="23" MaterialItem_2_Quantiy="30" MaterialItem_3_UniqueNumber="24" MaterialItem_3_Quantiy="3" />
+  <CraftingItem ItemUniqueNumber="9" MaterialItem_1_UniqueNumber="25" MaterialItem_1_Quantiy="3" MaterialItem_2_UniqueNumber="24" MaterialItem_2_Quantiy="10" MaterialItem_3_UniqueNumber="0" MaterialItem_3_Quantiy="0" />
+  <CraftingItem ItemUniqueNumber="1" MaterialItem_1_UniqueNumber="22" MaterialItem_1_Quantiy="5" MaterialItem_2_UniqueNumber="23" MaterialItem_2_Quantiy="5" MaterialItem_3_UniqueNumber="0" MaterialItem_3_Quantiy="0" />
+  <CraftingItem ItemUniqueNumber="6" MaterialItem_1_UniqueNumber="22" MaterialItem_1_Quantiy="20" MaterialItem_2_UniqueNumber="23" MaterialItem_2_Quantiy="20" MaterialItem_3_UniqueNumber="24" MaterialItem_3_Quantiy="3" />
+  <CraftingItem ItemUniqueNumber="10" MaterialItem_1_UniqueNumber="25" MaterialItem_1_Quantiy="1" MaterialItem_2_UniqueNumber="24" MaterialItem_2_Quantiy="10" MaterialItem_3_UniqueNumber="0" MaterialItem_3_Quantiy="0" />
+  <CraftingItem ItemUniqueNumber="2" MaterialItem_1_UniqueNumber="22" MaterialItem_1_Quantiy="20" MaterialItem_2_UniqueNumber="23" MaterialItem_2_Quantiy="20" MaterialItem_3_UniqueNumber="0" MaterialItem_3_Quantiy="0" />
+  <CraftingItem ItemUniqueNumber="7" MaterialItem_1_UniqueNumber="22" MaterialItem_1_Quantiy="50" MaterialItem_2_UniqueNumber="23" MaterialItem_2_Quantiy="50" MaterialItem_3_UniqueNumber="24" MaterialItem_3_Quantiy="5" />
+  <CraftingItem ItemUniqueNumber="11" MaterialItem_1_UniqueNumber="26" MaterialItem_1_Quantiy="1" MaterialItem_2_UniqueNumber="25" MaterialItem_2_Quantiy="5" MaterialItem_3_UniqueNumber="0" MaterialItem_3_Quantiy="0" />
+  <CraftingItem ItemUniqueNumber="3" MaterialItem_1_UniqueNumber="26" MaterialItem_1_Quantiy="1" MaterialItem_2_UniqueNumber="25" MaterialItem_2_Quantiy="5" MaterialItem_3_UniqueNumber="24" MaterialItem_3_Quantiy="10" />
+  <CraftingItem ItemUniqueNumber="8" MaterialItem_1_UniqueNumber="28" MaterialItem_1_Quantiy="1" MaterialItem_2_UniqueNumber="27" MaterialItem_2_Quantiy="3" MaterialItem_3_UniqueNumber="26" MaterialItem_3_Quantiy="5" />
+  <CraftingItem ItemUniqueNumber="4" MaterialItem_1_UniqueNumber="28" MaterialItem_1_Quantiy="1" MaterialItem_2_UniqueNumber="27" MaterialItem_2_Quantiy="3" MaterialItem_3_UniqueNumber="26" MaterialItem_3_Quantiy="5" />
+  <CraftingItem ItemUniqueNumber="12" MaterialItem_1_UniqueNumber="0" MaterialItem_1_Quantiy="0" MaterialItem_2_UniqueNumber="0" MaterialItem_2_Quantiy="0" MaterialItem_3_UniqueNumber="0" MaterialItem_3_Quantiy="0" />
+  <CraftingItem ItemUniqueNumber="20" MaterialItem_1_UniqueNumber="28" MaterialItem_1_Quantiy="1" MaterialItem_2_UniqueNumber="0" MaterialItem_2_Quantiy="0" MaterialItem_3_UniqueNumber="0" MaterialItem_3_Quantiy="0" />
+</root>
